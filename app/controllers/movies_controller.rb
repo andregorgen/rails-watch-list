@@ -1,4 +1,4 @@
 class MoviesController < ApplicationController
-  def index
+  def new
   end
 end
